@@ -1,5 +1,5 @@
 # Project Zomboid Media Files
-This repository holds all files that are contained within the "media" folder within Project Zomboid's folder structure, to allow all-time access from anywhere and everywhere by modders who need the files.
+This repository holds almost all files that are contained within the "media" folder within Project Zomboid's folder structure, to allow all-time access from anywhere and everywhere by modders who need the files.
 # Licensing & Right of Use Statement
 I do NOT own nor have created any of the files within this repository except for this readme.md file. Everything else is owned and licensed by [Project Zomboid](https://projectzomboid.com/blog/)'s developer, [The Indie Stone](https://projectzomboid.com/blog/about-us/). I have taken the liberty of grabbing the media files used by modders from my own installation's folder and thrown them in this repository, so that modders around the world with access to Github are able to grab the files on a whim when they don't have the files/game installed on their system. 
 
